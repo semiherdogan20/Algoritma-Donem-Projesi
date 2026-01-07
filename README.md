@@ -94,11 +94,3 @@ gcc main.c -o fizik -lm
 
 
 -lm math kütüphanesi için gereklidir.
-
-👤 Geliştirici
-
-İsim: (Program başında kullanıcıdan alınır 😄)
-
-Dil: C
-
-Amaç: Eğitim / Öğrenme
